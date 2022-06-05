@@ -1,0 +1,4 @@
+- `report.pdf`: Report file for this project (it's actually a course project).
+- `dimacs-cnf.pdf`: DIMACS CNF format.
+- `CHB.pdf`: Exponential Recency Weighted Average Branching Heuristic for SAT Solvers(AAAI' 2016), in which CHB heuristic is presented.
+- `MiniSAT.pdf`: miniSAT's doc.
